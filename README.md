@@ -10,8 +10,8 @@ Installation:
 Download the files to any folder. For example: `~/.config/conky/`.
 Inside this folder (`~/.config/conky/`), the directory structure should be as follows:
 
-config/music_info.lua
-scripts/music-info.sh
+    config/music_info.lua
+    scripts/music-info.sh
 
 Running:
 Run the following commands:
