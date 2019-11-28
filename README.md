@@ -24,4 +24,4 @@ Open either audacious or moc (Music on console) to listen to some music and chec
 Configuration:
 Open the file music_info.lua to make any necessary changes to shift the position of the newly created conky.
 Other changes necessary would be in the following conky configurations:
-own_window_type, own_window_hints.
+`own_window_type, own_window_hints`.
