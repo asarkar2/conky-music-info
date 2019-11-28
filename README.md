@@ -7,8 +7,8 @@ Conky, imagemagick and the music player.
 Initial upload only supports the following music players: audacious and moc.
 
 Installation:
-Download the files to any folder. For example: ${HOME}/.config/conky/
-Inside this folder (~/.config/conky/), the directory structure should be as follows:
+Download the files to any folder. For example: `~/.config/conky/`.
+Inside this folder (`~/.config/conky/`), the directory structure should be as follows:
 
 config/music_info.lua
 scripts/music-info.sh
